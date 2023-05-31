@@ -9,6 +9,7 @@
 <br><br>
 
 ## 👨‍💻 Languages
+<a href=""><img alt="" src="https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=cpp&logoColor=pink" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
