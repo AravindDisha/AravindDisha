@@ -1,5 +1,4 @@
-# Hi!, I am Disha 👋
-![alt text](./my_image.jpg)
+# Hi!, I am Disha 👋 <img src="./my_image.jpg" width=30>
 
 <p align="left">💻 MSCS Student at Georgia Tech </p>
 <p align="left">🔭 Research Assistant at the T+ID Lab, Georgia Tech </p>
