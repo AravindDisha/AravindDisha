@@ -19,6 +19,7 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/Node.js-BCEAD5?style=for-the-badge&logo=nodedotjs&logoColor=339933" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/React-9BABB8?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/CSS-A1CA03?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/TypeScript-FF8700?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
 
 
 ## 🧰 Libraries and Frameworks
