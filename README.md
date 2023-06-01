@@ -3,7 +3,7 @@
 
 <p align="left">💻 MSCS Student at Georgia Tech </p>
 <p align="left">🔭 Research Assistant at the T+ID Lab, Georgia Tech </p>
-<p align="left">💻 Previously a Software Development Engineer at Microsoft, Hyderabad, India </p>
+<p align="left">👩‍💻 Previously a Software Development Engineer at Microsoft, Hyderabad, India </p>
 <p align="left">📚 B.Tech in Computer Science and Engineering (spec. in Algorithms and Data Models) from PES University, Bengaluru, India </p>
 
 <br><br>
