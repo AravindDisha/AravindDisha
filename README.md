@@ -20,6 +20,7 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/React-9BABB8?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/CSS-A1CA03?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/TypeScript-FF8700?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/C%23-556472?style=for-the-badge&logo=csharp&logoColor=239120" /></a>
 
 
 ## 🧰 Libraries and Frameworks
@@ -50,3 +51,5 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Overleaf-1CAAD9?style=for-the-badge&logo=Overleaf&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Figma-8EC3B0?style=for-the-badge&logo=figma&logoColor=F24E1E" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Apache-E8E8E8?style=for-the-badge&logo=apache&logoColor=D22128" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/XAMPP-004027?style=for-the-badge&logo=xampp&logoColor=FB7A24" /></a>
